@@ -22,8 +22,10 @@ namespace MoviesBackend
         public void ConfigureServices(IServiceCollection services)
         {
             // Enable CORS requests
-            services.AddCors();
-            services.AddMvc();
+            services
+                .AddCors()
+                .AddMvc();
+
 
             // database context registration.
             // saying to use sqlite in conjunction with entity framework core
@@ -48,7 +50,15 @@ namespace MoviesBackend
             }
 
             // configure CORS
-            app.UseCors(builder => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
+            app.UseCors(builder =>
+                    builder.AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader()
+                        .AllowCredentials()
+                );
+            app.UseMvcWithDefaultRoute();
 
             app.UseMvc();
 
