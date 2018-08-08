@@ -23,9 +23,6 @@ namespace MoviesBackend
         {
             // Enable CORS requests
             services.AddCors();
-
-
-
             services.AddMvc();
 
             // database context registration.
@@ -45,7 +42,6 @@ namespace MoviesBackend
             {
                 app.UseDeveloperExceptionPage();
             }
-
             else
             {
                 app.UseHsts();

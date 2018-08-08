@@ -26,3 +26,17 @@ C:\Users\s.jelenic\Documents\Sneza\react\gitlab react-movies-app\backend-dotnet-
 C:\Users\s.jelenic\Documents\Sneza\react\gitlab react-movies-app\backend-dotnet-core-movies\MoviesBackend\obj\Debug\netcoreapp2.1\MoviesBackend.RazorTargetAssemblyInfo.cache
 C:\Users\s.jelenic\Documents\Sneza\react\gitlab react-movies-app\backend-dotnet-core-movies\MoviesBackend\obj\Debug\netcoreapp2.1\MoviesBackend.WebApi.dll
 C:\Users\s.jelenic\Documents\Sneza\react\gitlab react-movies-app\backend-dotnet-core-movies\MoviesBackend\obj\Debug\netcoreapp2.1\MoviesBackend.WebApi.pdb
+C:\Users\s.jelenic\Documents\Sneza\react\github movies-online\backend-dotnet-core-movies\MoviesBackend\bin\Debug\netcoreapp2.1\MoviesBackend.WebApi.deps.json
+C:\Users\s.jelenic\Documents\Sneza\react\github movies-online\backend-dotnet-core-movies\MoviesBackend\bin\Debug\netcoreapp2.1\MoviesBackend.WebApi.runtimeconfig.json
+C:\Users\s.jelenic\Documents\Sneza\react\github movies-online\backend-dotnet-core-movies\MoviesBackend\bin\Debug\netcoreapp2.1\MoviesBackend.WebApi.runtimeconfig.dev.json
+C:\Users\s.jelenic\Documents\Sneza\react\github movies-online\backend-dotnet-core-movies\MoviesBackend\bin\Debug\netcoreapp2.1\MoviesBackend.WebApi.dll
+C:\Users\s.jelenic\Documents\Sneza\react\github movies-online\backend-dotnet-core-movies\MoviesBackend\bin\Debug\netcoreapp2.1\MoviesBackend.WebApi.pdb
+C:\Users\s.jelenic\Documents\Sneza\react\github movies-online\backend-dotnet-core-movies\MoviesBackend\obj\Debug\netcoreapp2.1\MoviesBackend.csprojAssemblyReference.cache
+C:\Users\s.jelenic\Documents\Sneza\react\github movies-online\backend-dotnet-core-movies\MoviesBackend\obj\Debug\netcoreapp2.1\MoviesBackend.csproj.CoreCompileInputs.cache
+C:\Users\s.jelenic\Documents\Sneza\react\github movies-online\backend-dotnet-core-movies\MoviesBackend\obj\Debug\netcoreapp2.1\MoviesBackend.RazorAssemblyInfo.cache
+C:\Users\s.jelenic\Documents\Sneza\react\github movies-online\backend-dotnet-core-movies\MoviesBackend\obj\Debug\netcoreapp2.1\MoviesBackend.RazorAssemblyInfo.cs
+C:\Users\s.jelenic\Documents\Sneza\react\github movies-online\backend-dotnet-core-movies\MoviesBackend\obj\Debug\netcoreapp2.1\MoviesBackend.AssemblyInfoInputs.cache
+C:\Users\s.jelenic\Documents\Sneza\react\github movies-online\backend-dotnet-core-movies\MoviesBackend\obj\Debug\netcoreapp2.1\MoviesBackend.AssemblyInfo.cs
+C:\Users\s.jelenic\Documents\Sneza\react\github movies-online\backend-dotnet-core-movies\MoviesBackend\obj\Debug\netcoreapp2.1\MoviesBackend.RazorTargetAssemblyInfo.cache
+C:\Users\s.jelenic\Documents\Sneza\react\github movies-online\backend-dotnet-core-movies\MoviesBackend\obj\Debug\netcoreapp2.1\MoviesBackend.WebApi.dll
+C:\Users\s.jelenic\Documents\Sneza\react\github movies-online\backend-dotnet-core-movies\MoviesBackend\obj\Debug\netcoreapp2.1\MoviesBackend.WebApi.pdb
